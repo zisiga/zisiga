@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zisiga
-- 👀 I’m interested in storytelling, narrative building and colors ...
-- 🌱 I’m currently learning how to code my thesis ...
-- 📫 How to reach me email please zisiga0@gmail.com...
+- 👀 I’m interested in storytelling, narrative building and colors 
+- 📫 How to reach me email please zisiga0@gmail.com
 
 <!---
 zisiga/zisiga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
